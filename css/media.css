@@ -1,0 +1,276 @@
+@media screen and (max-width:1024px){
+    .study__p {
+        font-size: 18px;
+    }
+    .datework__p {
+        width: 111px;
+    }
+    h1 {
+        font-size: 70px;
+    }
+    .name3 {
+        font-size:30px;
+    }
+}
+@media screen and (max-width:768px) {
+    .study__p {
+        margin-left: 0;
+        font-size: 10px;
+    }
+    p {
+        font-size: 14px;
+    }
+    h3 {
+        margin-left:0;
+        text-align: center;
+    }
+    h4 {
+        font-size:20px;
+    }
+    
+    .elipse {
+        margin-left:30px;
+    }
+    .datework {
+        margin-top:18px;
+    }
+    .rightblock {
+        margin-left: 40px;
+    }
+    .elipse1 {
+        width: 13px;
+        height: 13px;
+        padding-top:3px;
+    }
+    span {
+        font-size: 14px;
+        width: 100px;
+    }
+    .lefttools {
+        margin-right: 50px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    .name3 {
+        font-size: 25px;
+    }
+    .contactleft p {
+        font-size: 14px;
+    }
+    .name {
+        padding: 180px 0 190px 80px;
+    }
+} 
+
+
+@media screen and (max-width:600px) {
+    .study__p {
+        margin-left: 10px;
+        font-size: 14px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .hobies__p {
+        font-size: 14px;
+        padding-top:20px;
+    }
+    .elipse {
+        width: 10px;
+        height: 10px;
+    }
+    p {
+        font-size: 14px;
+    }
+    h3 {
+        margin-left:0;
+        font-size:22px;
+        text-align: center;
+    }
+    h4 {
+        font-size:20px;
+    }
+    
+    .elipse {
+        margin-left:30px;
+    }
+    .datework {
+        margin-top:34px;
+    }
+    .datework__p{
+        margin-bottom: 70px;
+    }
+    .rightblock {
+        margin-left:60px;
+    }
+    .elipse1 {
+        width: 13px;
+        height: 13px;
+        padding-top:3px;
+    }
+    span {
+        font-size: 14px;
+        width: 100px;
+    }
+    .leftblock {
+        padding-top: 40px;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    .name3 {
+        font-size: 18px;
+    }
+    .contactleft p {
+        font-size: 14px;
+    }
+    .name {
+        padding: 180px 0 0px 60px;
+    }
+    .toolsbox {
+        display: block;
+    }
+}   
+@media screen and (max-width:480px) {
+    .study__p {
+        margin-left: 5px;
+        font-size: 14px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .hobies__p {
+        font-size: 14px;
+        padding-top:3px;
+    }
+    .elipse {
+        width: 10px;
+        height: 10px;
+    }
+    p {
+        font-size: 10px;
+    }
+    h3 {
+        margin-left:0;
+        font-size:18px;
+        text-align: center;
+    }
+    h4 {
+        font-size:15px;
+    }
+    .company{
+        margin-left:0;
+        margin-right: 5px;
+    }
+    .elipse {
+        margin-left:10px;
+    }
+    .datework {
+        margin-top:5px;
+    }
+    .datework__p{
+        margin-bottom: 40px;
+    }
+    .rightblock {
+        margin-left:40px;
+    }
+    .elipse1 {
+        width: 13px;
+        height: 13px;
+        padding-top:3px;
+    }
+    span {
+        font-size: 10px;
+        width: 100px;
+    }
+    .leftblock {
+        padding-top: 40px;
+    }
+    
+    h1 {
+        font-size: 25px;
+    }
+    .name3 {
+        font-size: 14px;
+    }
+    .address {
+        margin-left:60px;
+    }
+    .contactleft p {
+        font-size: 10px;
+    }
+    .name {
+        padding: 180px 0 0px 40px;
+    }
+    .toolsbox {
+        display: block;
+    }  
+}
+@media  screen and (max-width:320px) {
+    .wrapper {
+        display: block;
+    }
+    .avatar{
+        width:100%;
+        padding: 50px 0;
+    }
+    .name {
+        padding: 50px;
+    }
+    h1{
+        
+        font-size:40px;
+    }
+    .name3{
+        text-align: center;
+        font-size:20px;
+        margin: 0;
+    }
+    .main {
+        display: block;
+    }
+    .leftblock {
+        
+        width: 100%;
+    }
+    .study__p,.hobies__p{
+        font-size: 18px;
+    }
+    .elipse {
+        margin-left:30px;
+        
+    }
+    .hobies__p{
+        padding-bottom:10px;
+    }
+    .study__p {
+        margin-left: 30px;
+    }
+    h3 {
+        font-size: 25px;
+    }
+    .rightblock {
+        width:100%;
+        margin: 0;
+    }
+    .table{
+        margin-left: 0;
+        width:100%;
+    }
+    
+    .datework {
+        margin-left: 30px ;
+        width: 70px;
+        
+    }
+    .datework__p {
+        padding-bottom: 10px;
+    }
+    
+    .textwork {
+        margin-right: 0;
+    }
+    .toolsbox {
+        margin-left:30px
+    }
+}
